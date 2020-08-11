@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604701968088",
+    "firebase_url": "https://health-samurai.firebaseio.com",
+    "project_id": "health-samurai",
+    "storage_bucket": "health-samurai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604701968088:android:38b7c2a7c4816a853839ad",
+        "android_client_info": {
+          "package_name": "com.example.healthsamurai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604701968088-va5lu3co631m8d87vcgl5i5htuld72ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthsamurai",
+            "certificate_hash": "7af3985b24d2116a3311f5e9e6df135df639e35a"
+          }
+        },
+        {
+          "client_id": "604701968088-skdh8ut8gd42qkg5qpnqi9bufjn15qrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UTAtwO16JnYpgtLswlPvvo4DzAmR3Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604701968088-skdh8ut8gd42qkg5qpnqi9bufjn15qrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

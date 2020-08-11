@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="LoginPageMessage"><b>Please Type In Your Information To Login</b></string>
+    <string name="EmailHint">Email</string>
+    <string name="PasswordHint">\u00A0Password</string>
+    <string name="LoginButtonName">Login</string>
+    <string name="ErrorLoginPageMessage">Your Username/Password is incorrect</string>
+    <string name="LogoutButtonLabel">Logout</string>
+    <string name="Submit_button_title">Submit</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="role_spinner">"Pick a role"</string>
+    <string name="RegisterButton">Register</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="tab_text_1">Add Hours</string>
+    <string name="tab_text_2">Match</string>
+    <string name="tab_text_3">Info</string>
+    <string name="title_home">Info</string>
+    <string name="title_dashboard">Match</string>
+    <string name="title_notifications">Add hours</string>
+
+</resources>
